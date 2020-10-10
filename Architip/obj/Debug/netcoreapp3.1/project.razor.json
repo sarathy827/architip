@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/parthasarathytamilselvam/Projects/Architip/Architip/Architip.csproj",
+  "FilePath": "/Users/parthasarathytamilselvam/Projects/architip-2/Architip/Architip.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,37 +14392,37 @@
   "RootNamespace": "Architip",
   "Documents": [
     {
-      "FilePath": "/Users/parthasarathytamilselvam/Projects/Architip/Architip/Views/Shared/Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/parthasarathytamilselvam/Projects/Architip/Architip/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/parthasarathytamilselvam/Projects/Architip/Architip/Views/_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/parthasarathytamilselvam/Projects/Architip/Architip/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/parthasarathytamilselvam/Projects/Architip/Architip/Views/Home/Index.cshtml",
+      "FilePath": "/Users/parthasarathytamilselvam/Projects/architip-2/Architip/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/parthasarathytamilselvam/Projects/Architip/Architip/Views/Home/Privacy.cshtml",
+      "FilePath": "/Users/parthasarathytamilselvam/Projects/architip-2/Architip/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/parthasarathytamilselvam/Projects/architip-2/Architip/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/parthasarathytamilselvam/Projects/Architip/Architip/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "FilePath": "/Users/parthasarathytamilselvam/Projects/architip-2/Architip/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/parthasarathytamilselvam/Projects/architip-2/Architip/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/parthasarathytamilselvam/Projects/architip-2/Architip/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/parthasarathytamilselvam/Projects/architip-2/Architip/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }

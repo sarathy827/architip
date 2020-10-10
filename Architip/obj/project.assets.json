@@ -20,7 +20,7 @@
       "outputPath": "/Users/parthasarathytamilselvam/Projects/architip-2/Architip/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/parthasarathytamilselvam/.config/NuGet/NuGet.Config"
+        "/Users/parthasarathytamilselvam/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
