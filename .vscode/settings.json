@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "Architip/bin/Release/netcoreapp3.1/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/d41f859d-825c-4f1b-9faa-02ea0abef7cb/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/architip"
+}
